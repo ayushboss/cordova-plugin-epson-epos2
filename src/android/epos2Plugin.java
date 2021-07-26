@@ -30,6 +30,8 @@ import com.epson.epos2.printer.Printer;
 import com.epson.epos2.printer.PrinterStatusInfo;
 import com.epson.epos2.printer.ReceiveListener;
 
+//establishing new branch
+
 public class epos2Plugin extends CordovaPlugin {
     private static final String TAG = "epos2";
     private static final Map<String, Integer> printerTypeMap = new HashMap<String, Integer>() {{
